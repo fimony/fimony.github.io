@@ -10,7 +10,7 @@
       float: left;
       border: solid black 1px;
       background-color: lightgray;
-      height: 150px;
+      height: 180px;
       
     }
     .col-lg-1 {
@@ -58,7 +58,7 @@
       float: left;
       border: solid black 1px;
       background-color: lightgray;
-      height: 150px;
+      height: 180px;
     }
     .col-md-1 {
       width: 8.33%;
@@ -95,7 +95,8 @@
       width: 91.66%;
     }
     .col-md-12 {
-      width: 100%;
+      width: 99%;
+      margin: .5%;
     }
 }
 @media(max-width:767px){
@@ -103,7 +104,7 @@
     float: left;
     border: solid black 1px;
     background-color: lightgray;
-    height:150px;
+    height:180px;
   }
   .col-sd-1 {
     width: 8.33%;
